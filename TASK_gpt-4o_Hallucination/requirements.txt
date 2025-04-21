@@ -1,0 +1,12 @@
+openai
+pandas
+datasets
+langchain
+faiss-cpu
+scikit-learn
+transformers
+python-dotenv
+lettucedetect
+protobuf
+sentencepiece
+matplotlib
